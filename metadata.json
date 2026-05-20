@@ -1,0 +1,8 @@
+{
+  "name": "Mors Dark Architectural Studio",
+  "description": "A high-end, minimalist architectural and identity design portfolio with a dark aesthetic, fluid transitions, and rich imagery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
